@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="22" xOffset="0" scrollWidth="1520" startPos="1658" endPos="1658" selMode="0" offset="0" wrapCount="1" lang="Shell" encoding="-1" userReadOnly="no" filename="C:\Users\owner\Documents\GitHub\amphtml\.circleci\setup_storage.sh" backupFilePath="" originalFileLastModifTimestamp="-436876332" originalFileLastModifTimestampHigh="30919895" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="115" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="112" xOffset="0" scrollWidth="850" startPos="5376" endPos="5383" selMode="0" offset="0" wrapCount="1" lang="Python" encoding="-1" userReadOnly="no" filename="C:\Users\owner\Documents\GitHub\pytorch\torch\fx\experimental\fx_acc\acc_tracer.py" backupFilePath="" originalFileLastModifTimestamp="404786249" originalFileLastModifTimestampHigh="30919954" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="56" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
